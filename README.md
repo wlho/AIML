@@ -1,4 +1,4 @@
 # AIML
 AIML Learning Repository
 
-PLANT CLASSIFICATION PROJECT FROM KAGGLE - WHERE LIME IS USED TO DETERMINE WHAT FEATURES ARE USED IN PREDICTION
+Plant Classification Project where LIME is used to determine features used for Classification
